@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm passionate about technology, problem-solving, 
 ## 🚀 About Me
 
 - 🎓 Currently pursuing my PhD in IT
-- 🌱 Learning Web Development, Data Structures & Algorithms
-- 💡 Interested in Software Development and Open Source
+- 🌱 Learning continuosly
+- 💡 Interested in Exploring Data
 - 🎯 Goal: Become a skilled Full-Stack Developer
 - 📚 Always exploring new technologies
 
